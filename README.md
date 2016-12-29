@@ -1,4 +1,4 @@
-blah# This is the website for INFO5555 - Health Tech, Data, and Systems at Cornell Tech, Spring 2017
+# This is the website for INFO5555 - Health Tech, Data, and Systems at Cornell Tech, Spring 2017
 
 For any questions about the [website](http://info5555-cornell-tech.github.io), please contact ss3462@cornell.edu
 
